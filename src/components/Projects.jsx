@@ -15,7 +15,7 @@ const Projects = () => {
       tech: 'React.js, HTML, CSS',
       date: 'September 2024',
       description: 'Built a responsive personal portfolio website using React.js, HTML, and CSS to showcase projects, skills, and achievements. Focused on clean UI design, optimized performance, and cross-device compatibility.',
-      demoLink: '#' // Add your live demo link here
+      demoLink: 'https://itzmekhaleel.github.io/portfolio/'
     }
   ];
 
